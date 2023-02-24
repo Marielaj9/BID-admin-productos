@@ -1,0 +1,28 @@
+.lista{
+    padding: 10px;
+}
+
+.text1{
+    padding: 15px;
+}
+
+.text2{
+    padding: 15px;
+}
+
+.text3{
+    padding: 15px;
+    background-color: royalblue;
+    color: white;
+    box-shadow: 4px 4px black;
+}
+
+.btn{
+    background-color: royalblue;
+    color: white;
+    box-shadow: 4px 4px black;
+
+}
+.form{
+    padding: 15px;
+}
